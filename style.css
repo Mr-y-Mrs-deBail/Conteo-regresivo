@@ -83,7 +83,7 @@ body{
     height: 100vh;
 }
 
-.titulo{
+.titulo {
     font-family: 'Indie Flower', cursive;
 }
 
@@ -91,11 +91,11 @@ h1 {
     text-align: center;
 }
 
-.love{
+.love {
     width: 150px;
 }
 
-button{
+button {
     margin-top: -90px;
 }
 
@@ -113,7 +113,7 @@ button{
 }
 
 
-.deseo{
+.deseo {
     font-family: 'Barriecito', cursive;
     background-color: #a8ff81;
     width: 300px;
@@ -121,7 +121,7 @@ button{
     border-color: #000000;
 }
 
-.piglet{
+.piglet {
     position: absolute;
     width: 80px;
     left: 0px;
@@ -136,14 +136,14 @@ button{
   border-color: #000000;
 }
 
-.loveyou{
+.loveyou {
   position: absolute;
   width: 80px;
   right: -25px;
   top: -122px;
 }
 
-.juego{
+.juego {
     font-family: 'Barriecito', cursive;
     width: 240px;
     margin-left: 20px;
@@ -151,7 +151,7 @@ button{
     border-color: #000000;
 }
 
-.game{
+.game {
     position: absolute;
     width: 80px;
     right: 20px;
@@ -160,23 +160,23 @@ button{
 
 /* Esto es para la barra de música mi amor */
 
-.audio{
+.audio {
     background-color: rgba(255, 255, 255, 0.096);
     padding: 8px 15px;
     border-radius: 64px;
     
 }
 
-.btn-Class{
+.btn-Class {
     font-family: 'Barriecito', cursive;
     color: black !important;
 }
 
-.btn-class{
+.btn-class {
     font-family: 'Barriecito', cursive;
     color: black !important;
 }
-.titulo{
+.titulo {
     font-family: 'Indie Flower', cursive;
 }
 
